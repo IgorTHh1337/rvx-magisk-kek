@@ -1,10 +1,6 @@
 # ReVanced Magisk Module
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
-[![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
 
 Extensive ReVanced builder  
-
-Get the [latest CI release](https://github.com/j-hc/revanced-magisk-module/releases).
 
 Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
 
@@ -27,8 +23,8 @@ Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube
 
 ## To include/exclude patches or patch other apps
 
- * Star the repo :eyes:
- * Use the repo as a [template](https://github.com/new?template_name=revanced-magisk-module&template_owner=j-hc)
+ * Star the original [j-hc's repo](https://github.com/j-hc/revanced-magisk-module) :eyes:
+ * Use the j-hc's repo as a [template](https://github.com/new?template_name=revanced-magisk-module&template_owner=j-hc)
  * Customize [`config.toml`](./config.toml) using [rvmm-config-gen](https://j-hc.github.io/rvmm-config-gen/)
  * Run the build [workflow](../../actions/workflows/build.yml)
  * Grab your modules and APKs from [releases](../../releases)
@@ -45,12 +41,12 @@ You can consider using [rvmm-zygisk-mount](https://github.com/j-hc/rvmm-zygisk-m
 ## Building Locally
 ### On Termux
 ```console
-bash <(curl -sSf https://raw.githubusercontent.com/j-hc/revanced-magisk-module/main/build-termux.sh)
+bash <(curl -sSf https://raw.githubusercontent.com/IgorTHh1337/rvx-magisk-kek/main/build-termux.sh)
 ```
 
 ### On Linux
 ```console
-$ git clone https://github.com/j-hc/revanced-magisk-module --depth 1
+$ git clone https://github.com/IgorTHh1337/rvx-magisk-kek --depth 1
 $ cd revanced-magisk-module
 $ ./build.sh
 ```
