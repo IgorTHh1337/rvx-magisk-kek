@@ -1,7 +1,7 @@
 enable-module-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-patches-version = "v4.0.0-dev.11"
+patches-version = "v4.0.0"
 cli-source = "MorpheApp/morphe-cli"
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
