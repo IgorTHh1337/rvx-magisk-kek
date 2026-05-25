@@ -38,6 +38,7 @@ AnddeaYouTubeRVXModule: 20.21.37
 AnddeaYouTubeRVXModule_BLACK: 20.21.37  
 AnddeaYouTubeRVXModule_MMT: 20.21.37  
 AnddeaYouTubeRVXModule_MMTB: 20.21.37  
+AnddeaYouTubeRVXModule_REVB: 20.21.37  
 AnddeaYouTubeRVXModule_REVR: 20.21.37  
 AnddeaYouTubeRVXModule_VNCDB: 20.21.37  
 AnddeaYouTubeRVXModule_VNCDL: 20.21.37  
@@ -47,6 +48,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-CLI: MorpheApp/morphe-cli-1.7.0-all.jar  
-Patches: anddea/patches-4.0.0.mpp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.0.0)  
+CLI: MorpheApp/morphe-cli-1.8.1-all.jar  
+Patches: anddea/patches-4.1.0-dev.1.mpp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.1.0-dev.1)  
