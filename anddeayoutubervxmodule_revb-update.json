@@ -1,6 +1,6 @@
 {
-  "version": "v20.51.39 (patches dev.5.mpp)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/IgorTHh1337/rvx-magisk-kek/releases/download/4/anddeayoutubervxmodule_revb-anddea-morphe-module-v20.51.39-all.zip",
+  "version": "v20.51.39 (patches 4.1.0.mpp)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/IgorTHh1337/rvx-magisk-kek/releases/download/5/anddeayoutubervxmodule_revb-anddea-morphe-module-v20.51.39-all.zip",
   "changelog": "https://raw.githubusercontent.com/IgorTHh1337/rvx-magisk-kek/update/build.md"
 }
