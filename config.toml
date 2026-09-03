@@ -1,7 +1,7 @@
 enable-module-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-patches-version = "v4.2.0-dev.1"
+patches-version = "v4.3.0-dev.4"
 cli-source = "MorpheApp/morphe-cli"
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
@@ -39,7 +39,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
 arch = "both"
 build-mode = "apk"
-version = "8.30.54"
+version = "9.15.51"
 patcher-args = "-e 'Custom header for YouTube Music' -e 'GmsCore support' -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
 
 [AnddeaYouTubeMusicRVXModule]
@@ -50,7 +50,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
 arch = "both"
 build-mode = "module"
-version = "8.30.54"
+version = "9.15.51"
 patcher-args = "-e 'Custom header for YouTube Music' "
 
 # MMT Icon
@@ -85,7 +85,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
 arch = "both"
 build-mode = "apk"
-version = "8.30.54"
+version = "9.15.51"
 patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=mmt -e 'Custom header for YouTube Music' -e 'GmsCore support' -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
 
 [AnddeaYouTubeMusicRVXModule_MMT]
@@ -96,7 +96,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
 arch = "both"
 build-mode = "module"
-version = "8.30.54"
+version = "9.15.51"
 patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=mmt -e 'Custom header for YouTube Music' "
 
 # MMT Blue Icon
@@ -131,7 +131,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
 arch = "both"
 build-mode = "apk"
-version = "8.30.54"
+version = "9.15.51"
 patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=mmt_blue -e 'Custom header for YouTube Music' -e 'GmsCore support' -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
 
 [AnddeaYouTubeMusicRVXModule_MMTB]
@@ -142,7 +142,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
 arch = "both"
 build-mode = "module"
-version = "8.30.54"
+version = "9.15.51"
 patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=mmt_blue -e 'Custom header for YouTube Music' "
 
 # Revancify Blue Icon
@@ -177,7 +177,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
 arch = "both"
 build-mode = "apk"
-version = "8.30.54"
+version = "9.15.51"
 patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=revancify_blue -e 'Custom header for YouTube Music' -e 'GmsCore support' -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
 
 [AnddeaYouTubeMusicRVXModule_REVB]
@@ -188,7 +188,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
 arch = "both"
 build-mode = "module"
-version = "8.30.54"
+version = "9.15.51"
 patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=revancify_blue -e 'Custom header for YouTube Music' "
 
 # Revancify Red Icon
@@ -223,7 +223,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
 arch = "both"
 build-mode = "apk"
-version = "8.30.54"
+version = "9.15.51"
 patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=revancify_red -e 'Custom header for YouTube Music' -e 'GmsCore support' -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
 
 [AnddeaYouTubeMusicRVXModule_REVR]
@@ -234,7 +234,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
 arch = "both"
 build-mode = "module"
-version = "8.30.54"
+version = "9.15.51"
 patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=revancify_red -e 'Custom header for YouTube Music' "
 
 # Vanced Black Icon
@@ -269,7 +269,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
 arch = "both"
 build-mode = "apk"
-version = "8.30.54"
+version = "9.15.51"
 patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=vanced_black -e 'Custom header for YouTube Music' -e 'GmsCore support' -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
 
 [AnddeaYouTubeMusicRVXModule_VNCDB]
@@ -280,7 +280,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
 arch = "both"
 build-mode = "module"
-version = "8.30.54"
+version = "9.15.51"
 patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=vanced_black -e 'Custom header for YouTube Music' "
 
 # Vanced Light Icon
@@ -315,7 +315,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
 arch = "both"
 build-mode = "apk"
-version = "8.30.54"
+version = "9.15.51"
 patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=vanced_light -e 'Custom header for YouTube Music' -e 'GmsCore support' -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
 
 [AnddeaYouTubeMusicRVXModule_VNCDL]
@@ -326,7 +326,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
 arch = "both"
 build-mode = "module"
-version = "8.30.54"
+version = "9.15.51"
 patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=vanced_light -e 'Custom header for YouTube Music' "
 
 # YouTube Black Icon
