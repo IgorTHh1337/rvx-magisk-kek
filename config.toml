@@ -18,7 +18,6 @@ rv-brand = "anddea Morphe"
 build-mode = "apk"
 version = "20.51.39"
 included-patches = "'MaterialYou'"
-excluded-patches = "'Theme'"
 patcher-args = "-e 'Custom branding icon for YouTube' -e 'Custom header for YouTube' -e 'GmsCore support' -OpackageNameYouTube=app.revanced.android.youtube "
 
 [AnddeaYouTubeRVXModule]
@@ -29,7 +28,6 @@ rv-brand = "anddea Morphe"
 build-mode = "module"
 version = "20.51.39"
 included-patches = "'MaterialYou'"
-excluded-patches = "'Theme'"
 
 [AnddeaYouTubeMusicRVXAPK]
 
