@@ -70,7 +70,7 @@ jobs:
             gh release edit "$TAG" --title "Anddea RVX Morphed" --notes "$BODY"
             gh release upload "$TAG" ./build/* --clobber
           else
-            gh release create "$TAG" ./build/* --title "Release" --notes "$BODY"
+            gh release create "$TAG" ./build/* --title "Anddea RVX Morphed" --notes "$BODY"
           fi
 
       - name: Update modules changelog and update json
